@@ -1,0 +1,27 @@
+/* colors yellow-FDFDBD green-C8FFD4 blue-B8E8FC purple-B1AFFF */
+
+body {
+    background-color: #FDFDBD;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+h6 {
+    font-weight: 100;
+    text-align: center;
+}
+
+ul {
+    background-color: #C8FFD4;
+    list-style-type: none;
+    text-align: center;
+}
+
+.ingredients {
+    list-style-type: square;
+    text-align: left;
+}
