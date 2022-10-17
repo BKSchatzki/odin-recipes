@@ -20,6 +20,10 @@ h6 {
     text-align: center;
 }
 
+.dish-name {
+    text-align: left;
+}
+
 .ingredients li {
     list-style-type: square;
     text-align: left;
@@ -30,7 +34,6 @@ homepage {
 }
 
 img {
-    align-items: center;
     height: auto;
     max-width: 50%;
 }
