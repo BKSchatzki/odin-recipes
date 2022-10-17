@@ -15,9 +15,8 @@ h6 {
     text-align: center;
 }
 
-ul {
+.table-of-contents {
     background-color: #C8FFD4;
-    list-style-type: none;
     text-align: center;
 }
 
@@ -26,6 +25,6 @@ ul {
     text-align: left;
 }
 
-.homepage {
+homepage {
     text-align: center;
 }
