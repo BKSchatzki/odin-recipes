@@ -44,6 +44,10 @@ ul {
     text-align: left;
 }
 
+ol {
+    list-style-type: cjk-decimal;
+}
+
 img {
     height: auto;
     width: 50%;
