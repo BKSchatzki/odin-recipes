@@ -6,7 +6,8 @@ body {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 64px;
+    font-weight: 900;
     text-align: center;
 }
 
@@ -16,11 +17,13 @@ h6 {
 }
 
 .table-of-contents {
-    background-color: #C8FFD4;
+    font-size: 24px;
+    font-weight: bold;
     text-align: center;
 }
 
 .dish-name {
+    font-size: 48px;
     text-align: left;
 }
 
