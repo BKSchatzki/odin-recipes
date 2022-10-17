@@ -21,7 +21,11 @@ ul {
     text-align: center;
 }
 
-.ingredients {
+.ingredients li {
     list-style-type: square;
     text-align: left;
+}
+
+.homepage {
+    text-align: center;
 }
