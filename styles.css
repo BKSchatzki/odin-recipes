@@ -46,5 +46,6 @@ ul {
 
 img {
     height: auto;
-    max-width: 50%;
+    width: 50%;
+    max-width: 500px;
 }
